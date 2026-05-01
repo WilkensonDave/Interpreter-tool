@@ -1,0 +1,111 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f5f7fa;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  align-items: center;
+}
+
+
+button:hover {
+  background: #0056b3;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  margin: 0;
+}
+.container{
+    max-width: 1200px;
+    margin: 12px auto;
+}
+
+.searchform{
+    max-width: 500px;
+    margin: 15px auto;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 5px;
+}
+
+.email-information p:last-child{
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+.card p {
+  font-size: 18px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.card span {
+  font-size: 12px;
+  color: gray;
+}
+
+@media screen and (max-width: 600px) {
+  .email-information{
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .buttons{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .searchform{
+    display: flex;
+    flex-direction: column;
+  }
+}

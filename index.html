@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interpreter Tool</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+
+</head>
+<body>
+
+    <div class="container">
+    <h1>Interpreter Tool</h1>
+    <div class="email-information">
+        <p>If you have a new word you want to add, send me an email here:
+        </p>
+        <p>devaristewilkenson978@gmail.com</p>
+    </div>
+    
+
+    <form id="searchForm" class="searchform">
+        <input type="text" id="search" placeholder="Search English or Creole..." />
+        <button type="submit" class="btn">Search</button>
+    </form>
+
+    <div class="buttons">
+        <button onclick="filterCategory('All')">All</button>
+        <button onclick="filterCategory('Medical')">Medical</button>
+        <button onclick="filterCategory('Bank')">Bank</button>
+        <button onclick="filterCategory('Emergency')">911</button>
+    </div>
+
+    <div id="results"></div>
+  </div>
+  <script src="index.js"></script>
+</body>
+</html>
