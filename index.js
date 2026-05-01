@@ -1,16 +1,19 @@
 let terms = []
 
+const numberWords = document.getElementById("words");
+const form = document.getElementById("searchForm");
+const searchInput = document.getElementById("search");
+const resultsDiv = document.getElementById("results");
+
+
 fetch("terms.json").then(response => response.json()).then(data =>{
     terms = data;
-    displayResults(terms)
+    displayResults(terms);
+    numberWords.textContent = `Around ${terms.length} terminologies have already added.`
 }).catch(error =>{
     throw error;
 });
 
-
-const form = document.getElementById("searchForm");
-const searchInput = document.getElementById("search");
-const resultsDiv = document.getElementById("results");
 
 form.addEventListener("submit", function (e) {
   e.preventDefault(); // prevent page reload
@@ -66,6 +69,7 @@ searchInput.addEventListener("input", () => {
   );
 
   displayResults(filtered);
+  searchInput.value = ""
 });
 
 // Filter buttons
