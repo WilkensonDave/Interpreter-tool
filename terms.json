@@ -1605,5 +1605,145 @@
     "spanish": "Muchas gracias",
     "category": "Daily",
     "subcategory": "Polite"
+  },
+  {
+    "english": "Dispatch",
+    "creole": "Voye ekip ijans",
+    "spanish": "Despachar",
+    "category": "Emergency",
+    "subcategory": "Operations"
+  },
+  {
+    "english": "Dispatch an ambulance",
+    "creole": "Voye yon anbilans",
+    "spanish": "Despachar una ambulancia",
+    "category": "Emergency",
+    "subcategory": "Operations"
+  },
+  {
+    "english": "Run over (by a car)",
+    "creole": "Frape pa machin / kraze pa machin",
+    "spanish": "Atropellar",
+    "category": "Emergency",
+    "subcategory": "Accident"
+  },
+  {
+    "english": "He was run over",
+    "creole": "Yo frape li ak machin",
+    "spanish": "Fue atropellado",
+    "category": "Emergency",
+    "subcategory": "Accident"
+  },
+  {
+    "english": "Crash",
+    "creole": "Kraze",
+    "spanish": "Chocar",
+    "category": "Accident",
+    "subcategory": "Automobile"
+  },
+  {
+    "english": "Car crash",
+    "creole": "Aksidan machin / machin kraze",
+    "spanish": "Accidente de coche",
+    "category": "Accident",
+    "subcategory": "Automobile"
+  },
+  {
+    "english": "Raise your hand",
+    "creole": "Leve men ou",
+    "spanish": "Levante la mano",
+    "category": "Medical",
+    "subcategory": "Instructions"
+  },
+  {
+    "english": "Raise both hands",
+    "creole": "Leve toude men ou",
+    "spanish": "Levante ambas manos",
+    "category": "Medical",
+    "subcategory": "Instructions"
+  },
+  {
+    "english": "Run",
+    "creole": "Kouri",
+    "spanish": "Correr",
+    "category": "Daily",
+    "subcategory": "Action"
+  },
+  {
+    "english": "He is running",
+    "creole": "Li ap kouri",
+    "spanish": "Está corriendo",
+    "category": "Daily",
+    "subcategory": "Action"
+  },
+  {
+    "english": "Stop running",
+    "creole": "Sispann kouri",
+    "spanish": "Deja de correr",
+    "category": "Emergency",
+    "subcategory": "Command"
+  },
+  {
+    "english": "Fall down",
+    "creole": "Tonbe",
+    "spanish": "Caerse",
+    "category": "Emergency",
+    "subcategory": "Accident"
+  },
+  {
+    "english": "He fell down",
+    "creole": "Li tonbe",
+    "spanish": "Se cayó",
+    "category": "Emergency",
+    "subcategory": "Accident"
+  },
+  {
+    "english": "Get up",
+    "creole": "Leve",
+    "spanish": "Levántese",
+    "category": "Medical",
+    "subcategory": "Instructions"
+  },
+  {
+    "english": "Sit down",
+    "creole": "Chita",
+    "spanish": "Siéntese",
+    "category": "Medical",
+    "subcategory": "Instructions"
+  },
+  {
+    "english": "Lie down",
+    "creole": "Kouche",
+    "spanish": "Acuéstese",
+    "category": "Medical",
+    "subcategory": "Instructions"
+  },
+  {
+    "english": "Hold still",
+    "creole": "Pa bouje",
+    "spanish": "No se mueva",
+    "category": "Emergency",
+    "subcategory": "Critical"
+  },
+  {
+    "english": "Move",
+    "creole": "Deplase",
+    "spanish": "Moverse",
+    "category": "Daily",
+    "subcategory": "Action"
+  },
+  {
+    "english": "Move your arm",
+    "creole": "Deplase bra ou",
+    "spanish": "Mueva el brazo",
+    "category": "Medical",
+    "subcategory": "Instructions"
+  },
+  {
+    "english": "Call for help",
+    "creole": "Rele èd",
+    "spanish": "Pide ayuda",
+    "category": "Emergency",
+    "subcategory": "Action"
   }
 ]
