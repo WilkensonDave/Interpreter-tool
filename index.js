@@ -1,18 +1,17 @@
 let terms = []
-
 const numberWords = document.getElementById("words");
-const form = document.getElementById("searchForm");
-const searchInput = document.getElementById("search");
-const resultsDiv = document.getElementById("results");
-
-
 fetch("terms.json").then(response => response.json()).then(data =>{
     terms = data;
+    numberWords.textContent = `Around ${terms.length} have already been added.`
     displayResults(terms);
-    numberWords.textContent = `Around ${terms.length} terminologies have already added.`
 }).catch(error =>{
     throw error;
 });
+
+
+const form = document.getElementById("searchForm");
+const searchInput = document.getElementById("search");
+const resultsDiv = document.getElementById("results");
 
 
 form.addEventListener("submit", function (e) {
@@ -35,6 +34,8 @@ form.addEventListener("submit", function (e) {
 });
 
 function displayResults(data) {
+  resultsDiv.innerHTML = "";
+
   if (data.length === 0) {
     resultsDiv.innerHTML = "<p>No results found</p>";
     return;
