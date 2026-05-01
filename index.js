@@ -35,8 +35,6 @@ form.addEventListener("submit", function (e) {
 });
 
 function displayResults(data) {
-  resultsDiv.innerHTML = "";
-
   if (data.length === 0) {
     resultsDiv.innerHTML = "<p>No results found</p>";
     return;
@@ -69,7 +67,6 @@ searchInput.addEventListener("input", () => {
   );
 
   displayResults(filtered);
-  searchInput.value = ""
 });
 
 // Filter buttons
