@@ -2084,6 +2084,26 @@
   {"english":"Thoraco-","creole":"pwatrin","spanish":"tórax","category":"Word Root"},
   {"english":"Pulmo-","creole":"poumon","spanish":"pulmón","category":"Word Root"},
   {"english":"Pneumo-","creole":"poumon / lè","spanish":"pulmón / aire","category":"Word Root"},
-  {"english":"Broncho-","creole":"bwonch","spanish":"bronquio","category":"Word Root"}
+  {"english":"Broncho-","creole":"bwonch","spanish":"bronquio","category":"Word Root"},
+  {"english":"Myositis","creole":"enflamasyon misk","spanish":"miositis","category":"Inflammation"},
+  {"english":"Dermatitis","creole":"enflamasyon po","spanish":"dermatitis","category":"Inflammation"},
+  {"english":"Angiitis","creole":"enflamasyon veso sangen","spanish":"angiitis","category":"Inflammation"},
+  {"english":"Phlebitis","creole":"enflamasyon venn","spanish":"flebitis","category":"Inflammation"},
+  {"english":"Carditis","creole":"enflamasyon kè","spanish":"carditis","category":"Inflammation"},
+  {"english":"Lymphadenitis","creole":"enflamasyon gangliyon lenfatik","spanish":"linfadenitis","category":"Inflammation"},
+  {"english":"Tympanitis","creole":"enflamasyon tanpan","spanish":"timpanitis","category":"Inflammation"},
+  {"english":"Nephritis","creole":"enflamasyon ren","spanish":"nefritis","category":"Inflammation"},
+  {"english":"Cranitis","creole":"enflamasyon zo bwa tèt","spanish":"cranitis","category":"Inflammation"},
+  {"english":"Ophthalmitis","creole":"enflamasyon je","spanish":"oftalmitis","category":"Inflammation"},
+  {"english":"Otitis","creole":"enflamasyon zòrèy","spanish":"otitis","category":"Inflammation"},
+  {"english":"Thrombophlebitis","creole":"enflamasyon venn ak kayo san","spanish":"tromboflebitis","category":"Inflammation"},
+  {"english":"Hepatitis","creole":"enflamasyon fwa","spanish":"hepatitis","category":"Inflammation"},
+  {"english":"Mastitis","creole":"enflamasyon tete","spanish":"mastitis","category":"Inflammation"},
+  {"english":"Colitis","creole":"enflamasyon gwo trip","spanish":"colitis","category":"Inflammation"},
+  {"english":"Gastritis","creole":"enflamasyon lestomak","spanish":"gastritis","category":"Inflammation"},
+  {"english":"Enteritis","creole":"enflamasyon ti trip","spanish":"enteritis","category":"Inflammation"},
+  {"english":"Thoracitis","creole":"enflamasyon pwatrin","spanish":"toracitis","category":"Inflammation"},
+  {"english":"Pneumonitis","creole":"enflamasyon poumon","spanish":"neumonitis","category":"Inflammation"},
+  {"english":"Bronchitis","creole":"enflamasyon bwonch","spanish":"bronquitis","category":"Inflammation"}
 
 ]
