@@ -2104,6 +2104,26 @@
   {"english":"Enteritis","creole":"enflamasyon ti trip","spanish":"enteritis","category":"Inflammation"},
   {"english":"Thoracitis","creole":"enflamasyon pwatrin","spanish":"toracitis","category":"Inflammation"},
   {"english":"Pneumonitis","creole":"enflamasyon poumon","spanish":"neumonitis","category":"Inflammation"},
-  {"english":"Bronchitis","creole":"enflamasyon bwonch","spanish":"bronquitis","category":"Inflammation"}
+  {"english":"Bronchitis","creole":"enflamasyon bwonch","spanish":"bronquitis","category":"Inflammation"},
+  {"english":"Allergist","creole":"alèjis","spanish":"alergólogo","category":"Medical Specialist"},
+  {"english":"Immunologist","creole":"iminològ","spanish":"inmunólogo","category":"Medical Specialist"},
+  {"english":"Anesthesiologist","creole":"anestezyològ","spanish":"anestesiólogo","category":"Medical Specialist"},
+  {"english":"Cardiologist","creole":"kadyològ","spanish":"cardiólogo","category":"Medical Specialist"},
+  {"english":"Dermatologist","creole":"dèmatològ","spanish":"dermatólogo","category":"Medical Specialist"},
+  {"english":"Neurologist","creole":"newològ","spanish":"neurólogo","category":"Medical Specialist"},
+  {"english":"Nephrologist","creole":"nefrològ","spanish":"nefrólogo","category":"Medical Specialist"},
+  {"english":"Pulmonologist","creole":"pimològ","spanish":"neumólogo","category":"Medical Specialist"},
+  {"english":"Gastroenterologist","creole":"gastwoanterològ","spanish":"gastroenterólogo","category":"Medical Specialist"},
+  {"english":"Hepatologist","creole":"epatològ","spanish":"hepatólogo","category":"Medical Specialist"},
+  {"english":"Ophthalmologist","creole":"oftalmològ","spanish":"oftalmólogo","category":"Medical Specialist"},
+  {"english":"Otologist","creole":"otològ","spanish":"otólogo","category":"Medical Specialist"},
+  {"english":"Hematologist","creole":"ematològ","spanish":"hematólogo","category":"Medical Specialist"},
+  {"english":"Oncologist","creole":"onkològ","spanish":"oncólogo","category":"Medical Specialist"},
+  {"english":"Endocrinologist","creole":"andokrinològ","spanish":"endocrinólogo","category":"Medical Specialist"},
+  {"english":"Rheumatologist","creole":"rimatològ","spanish":"reumatólogo","category":"Medical Specialist"},
+  {"english":"Gynecologist","creole":"jinekològ","spanish":"ginecólogo","category":"Medical Specialist"},
+  {"english":"Urologist","creole":"iwològ","spanish":"urólogo","category":"Medical Specialist"},
+  {"english":"Pediatrician","creole":"pedyat","spanish":"pediatra","category":"Medical Specialist"},
+  {"english":"Psychiatrist","creole":"sikyat","spanish":"psiquiatra","category":"Medical Specialist"}
 
 ]
