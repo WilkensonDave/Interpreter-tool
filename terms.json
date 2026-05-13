@@ -14763,5 +14763,660 @@
     "term": "Urinary system",
     "definition": "system for urine production and removal",
     "haitian_creole": "Sistèm urinè"
+  },
+  {
+    "term": "Bumps / Lumps",
+    "definition": "small raised swellings on the body",
+    "haitian_creole": "Bosse"
+  },
+  {
+    "term": "Boil",
+    "definition": "infected swelling filled with pus",
+    "haitian_creole": "Furonkl (klou)"
+  },
+  {
+    "term": "Abscess",
+    "definition": "collection of pus caused by infection",
+    "haitian_creole": "Absè"
+  },
+  {
+    "term": "Stinging",
+    "definition": "sharp pricking sensation",
+    "haitian_creole": "Pikotman"
+  },
+  {
+    "term": "Itching",
+    "definition": "irritation causing urge to scratch",
+    "haitian_creole": "Dèmanjezon"
+  },
+  {
+    "term": "Fever",
+    "definition": "elevated body temperature",
+    "haitian_creole": "Lafyèv"
+  },
+  {
+    "term": "Chills",
+    "definition": "feeling of cold with shivering",
+    "haitian_creole": "Frison"
+  },
+  {
+    "term": "Flu / Influenza",
+    "definition": "viral respiratory infection",
+    "haitian_creole": "Grip"
+  },
+  {
+    "term": "Cold",
+    "definition": "mild viral infection of nose and throat",
+    "haitian_creole": "Rim"
+  },
+  {
+    "term": "Cough / Coughing",
+    "definition": "expelling air from lungs suddenly",
+    "haitian_creole": "Tous"
+  },
+  {
+    "term": "Stuffy nose",
+    "definition": "blocked nasal passages",
+    "haitian_creole": "Nen bouche"
+  },
+  {
+    "term": "Congestion",
+    "definition": "blockage of airways or blood vessels",
+    "haitian_creole": "Konjesyon"
+  },
+  {
+    "term": "Running nose",
+    "definition": "excess mucus from nose",
+    "haitian_creole": "Nen k ap koule"
+  },
+  {
+    "term": "Cough up blood",
+    "definition": "expel blood while coughing",
+    "haitian_creole": "Krache san"
+  },
+  {
+    "term": "Wheezing",
+    "definition": "whistling sound when breathing",
+    "haitian_creole": "Sifleman"
+  },
+  {
+    "term": "To snore",
+    "definition": "make noise while sleeping",
+    "haitian_creole": "Ronfle"
+  },
+  {
+    "term": "Sore throat",
+    "definition": "pain in throat",
+    "haitian_creole": "Mal gòj"
+  },
+  {
+    "term": "Shortness of breath",
+    "definition": "difficulty breathing",
+    "haitian_creole": "Souf kout"
+  },
+  {
+    "term": "Take a deep breath",
+    "definition": "breathe in deeply",
+    "haitian_creole": "Respire fon"
+  },
+  {
+    "term": "Shot",
+    "definition": "injection with a needle",
+    "haitian_creole": "Piki"
+  },
+  {
+    "term": "To poke (be injected)",
+    "definition": "to be pricked with a needle",
+    "haitian_creole": "Pike"
+  },
+  {
+    "term": "Blood clots",
+    "definition": "thickened mass of blood",
+    "haitian_creole": "Kayo san"
+  },
+  {
+    "term": "Blurry vision",
+    "definition": "unclear or fuzzy sight",
+    "haitian_creole": "Vizyon flou"
+  },
+  {
+    "term": "Double vision",
+    "definition": "seeing two images of one object",
+    "haitian_creole": "Vizyon doub"
+  },
+  {
+    "term": "Black spots in vision",
+    "definition": "dark spots seen in eyesight",
+    "haitian_creole": "Pwen nwa nan vizyon"
+  },
+  {
+    "term": "Examination / Exams / Tests / Labs",
+    "definition": "medical check or diagnostic testing",
+    "haitian_creole": "Egzamen / analiz / tès"
+  },
+  {
+    "term": "Blood test / Blood work",
+    "definition": "laboratory test on blood sample",
+    "haitian_creole": "Analiz san / tès san"
+  },
+  {
+    "term": "Blood drawn",
+    "definition": "process of taking blood from the body",
+    "haitian_creole": "Pran san"
+  },
+  {
+    "term": "Vital signs",
+    "definition": "basic body measurements like pulse and temperature",
+    "haitian_creole": "Siy vital"
+  },
+  {
+    "term": "Pap smear",
+    "definition": "test of cervical cells for cancer screening",
+    "haitian_creole": "Frotis vajinal"
+  },
+  {
+    "term": "Pap test",
+    "definition": "Papanicolaou test for cervical screening",
+    "haitian_creole": "Tès Pap"
+  },
+  {
+    "term": "Swab",
+    "definition": "cotton stick used for sample collection",
+    "haitian_creole": "Ekouviyon / tampon"
+  },
+  {
+    "term": "X-rays",
+    "definition": "imaging using radiation",
+    "haitian_creole": "Radyografi"
+  },
+  {
+    "term": "CT scan",
+    "definition": "detailed internal body imaging scan",
+    "haitian_creole": "Tomodansitometri"
+  },
+  {
+    "term": "Lab work",
+    "definition": "medical laboratory tests",
+    "haitian_creole": "Analiz laboratwa"
+  },
+  {
+    "term": "Screening",
+    "definition": "early disease detection testing",
+    "haitian_creole": "Depistaj"
+  },
+  {
+    "term": "Iron test",
+    "definition": "blood test measuring iron levels",
+    "haitian_creole": "Tès fè"
+  },
+  {
+    "term": "Medical history",
+    "definition": "record of past health conditions",
+    "haitian_creole": "Antècedan medikal"
+  },
+  {
+    "term": "Listen to heart and lungs",
+    "definition": "check heart and lung sounds with stethoscope",
+    "haitian_creole": "Koute kè ak poumon"
+  },
+  {
+    "term": "Tuberculosis (TB)",
+    "definition": "infectious lung disease",
+    "haitian_creole": "Tibèkiloz"
+  },
+  {
+    "term": "Active TB",
+    "definition": "TB infection with symptoms",
+    "haitian_creole": "Tibèkiloz aktif"
+  },
+  {
+    "term": "Latent TB",
+    "definition": "TB infection without symptoms",
+    "haitian_creole": "Tibèkiloz kache"
+  },
+  {
+    "term": "Sickle cell",
+    "definition": "blood disorder affecting red blood cells",
+    "haitian_creole": "Anemi falciform"
+  },
+  {
+    "term": "Sickle cell trait",
+    "definition": "carrier condition of sickle cell gene",
+    "haitian_creole": "Pòtè anemi falciform"
+  },
+  {
+    "term": "Test comes back positive",
+    "definition": "result shows presence of a condition",
+    "haitian_creole": "Rezilta tès la pozitif"
+  },
+  {
+    "term": "To monitor",
+    "definition": "to observe and check health condition regularly",
+    "haitian_creole": "Siveye"
+  },
+  {
+    "term": "Medical condition",
+    "definition": "state of a person's health",
+    "haitian_creole": "Eta sante"
+  },
+  {
+    "term": "Blood pressure",
+    "definition": "force of blood in arteries",
+    "haitian_creole": "Presyon atèryèl"
+  },
+  {
+    "term": "Blood sugar / Glucose",
+    "definition": "level of sugar in blood",
+    "haitian_creole": "Glikemi"
+  },
+  {
+    "term": "Heartburn",
+    "definition": "burning sensation in chest due to acid",
+    "haitian_creole": "Brilè lestomak"
+  },
+  {
+    "term": "Bellyache",
+    "definition": "pain in the stomach area",
+    "haitian_creole": "Mal vant"
+  },
+  {
+    "term": "Chest pain",
+    "definition": "pain in the chest area",
+    "haitian_creole": "Doulè nan pwatrin"
+  },
+  {
+    "term": "Back pain",
+    "definition": "pain in the back",
+    "haitian_creole": "Doulè do"
+  },
+  {
+    "term": "Headache",
+    "definition": "pain in the head",
+    "haitian_creole": "Maltèt"
+  },
+  {
+    "term": "Migraine",
+    "definition": "severe recurring headache",
+    "haitian_creole": "Migren"
+  },
+  {
+    "term": "Dizziness / Lightheaded / Vertigo",
+    "definition": "feeling of spinning or loss of balance",
+    "haitian_creole": "Vètij / tèt vire"
+  },
+  {
+    "term": "Rash",
+    "definition": "skin irritation or eruption",
+    "haitian_creole": "Erupsyon po"
+  },
+  {
+    "term": "Swelling / Swollen",
+    "definition": "abnormal enlargement of body part",
+    "haitian_creole": "Anfle / anflamasyon"
+  },
+  {
+    "term": "Sprain",
+    "definition": "injury to ligaments due to twisting",
+    "haitian_creole": "Antòs"
+  },
+  {
+    "term": "Kidney stone",
+    "definition": "solid mineral deposit in kidney",
+    "haitian_creole": "Pyè nan ren"
+  },
+  {
+    "term": "Kidney function",
+    "definition": "ability of kidneys to filter blood",
+    "haitian_creole": "Fonksyon ren"
+  },
+  {
+    "term": "Bladder",
+    "definition": "organ that stores urine",
+    "haitian_creole": "Vesik"
+  },
+  {
+    "term": "Physical therapy",
+    "definition": "treatment using physical methods for recovery",
+    "haitian_creole": "Fizyoterapi"
+  },
+  {
+    "term": "Occupational therapy",
+    "definition": "therapy to help daily living skills",
+    "haitian_creole": "Ergoterapi"
+  },
+  {
+    "term": "Tummy time",
+    "definition": "time baby spends on stomach for development",
+    "haitian_creole": "Tan sou vant"
+  },
+  {
+    "term": "Cradle",
+    "definition": "small bed for a baby",
+    "haitian_creole": "Bèso"
+  },
+  {
+    "term": "Breast",
+    "definition": "milk-producing organ in females",
+    "haitian_creole": "Tete"
+  },
+  {
+    "term": "To breastfeed",
+    "definition": "to feed a baby with breast milk",
+    "haitian_creole": "Bay tete"
+  },
+  {
+    "term": "Breastfeeding",
+    "definition": "feeding baby with breast milk",
+    "haitian_creole": "Alètman"
+  },
+  {
+    "term": "Formula",
+    "definition": "artificial milk for babies",
+    "haitian_creole": "Lèt fòmil"
+  },
+  {
+    "term": "Breast pump",
+    "definition": "device to extract breast milk",
+    "haitian_creole": "Ponp lèt"
+  },
+  {
+    "term": "Teething",
+    "definition": "process of teeth coming out",
+    "haitian_creole": "Dan ap pouse"
+  },
+  {
+    "term": "Toothache",
+    "definition": "pain in a tooth",
+    "haitian_creole": "Mal dan"
+  },
+  {
+    "term": "Tooth extraction",
+    "definition": "removal of a tooth",
+    "haitian_creole": "Retire dan"
+  },
+  {
+    "term": "Cavities",
+    "definition": "holes in teeth caused by decay",
+    "haitian_creole": "Kari dan"
+  },
+  {
+    "term": "Lips",
+    "definition": "soft outer parts of mouth",
+    "haitian_creole": "Lèv"
+  },
+  {
+    "term": "Gums",
+    "definition": "tissue around teeth",
+    "haitian_creole": "Jansiv"
+  },
+  {
+    "term": "To be pregnant",
+    "definition": "to carry a baby in the womb",
+    "haitian_creole": "Ansent"
+  },
+  {
+    "term": "To deliver / To give birth",
+    "definition": "to bring a baby into the world",
+    "haitian_creole": "Akouche"
+  },
+  {
+    "term": "In labor",
+    "definition": "process of childbirth starting",
+    "haitian_creole": "Nan tranche"
+  },
+  {
+    "term": "C-section",
+    "definition": "surgical delivery of a baby",
+    "haitian_creole": "Sezaryèn"
+  },
+  {
+    "term": "Epidural",
+    "definition": "pain relief injection during childbirth",
+    "haitian_creole": "Pèdural"
+  },
+  {
+    "term": "Contraction",
+    "definition": "tightening of uterine muscles during labor",
+    "haitian_creole": "Kontraksyon"
+  },
+  {
+    "term": "Vaginal birth",
+    "definition": "delivery of baby through the vagina",
+    "haitian_creole": "Akouchman vajinal"
+  },
+  {
+    "term": "Premature baby",
+    "definition": "baby born before full term",
+    "haitian_creole": "Bebe prematire"
+  },
+  {
+    "term": "Early pregnancy",
+    "definition": "initial stage of pregnancy",
+    "haitian_creole": "Gwosès bonè"
+  },
+  {
+    "term": "Uterus",
+    "definition": "organ where baby grows during pregnancy",
+    "haitian_creole": "Matris"
+  },
+  {
+    "term": "Cervix",
+    "definition": "lower part of the uterus",
+    "haitian_creole": "Kòl matris"
+  },
+  {
+    "term": "Sanitary pad / towel",
+    "definition": "absorbent hygiene product for menstrual blood",
+    "haitian_creole": "Serviyèt ijyenik (kotèks)"
+  },
+  {
+    "term": "Bleeding / Hemorrhage",
+    "definition": "loss of blood from the body",
+    "haitian_creole": "Emoraji"
+  },
+  {
+    "term": "Vagina",
+    "definition": "female reproductive canal",
+    "haitian_creole": "Vajen"
+  },
+  {
+    "term": "Vaginal bleeding",
+    "definition": "bleeding from the vagina",
+    "haitian_creole": "Senyen vajinal"
+  },
+  {
+    "term": "Vaginal discharge",
+    "definition": "fluid coming from vagina",
+    "haitian_creole": "Pèt vajinal"
+  },
+  {
+    "term": "HIV",
+    "definition": "virus that attacks immune system",
+    "haitian_creole": "VIH"
+  },
+  {
+    "term": "AIDS",
+    "definition": "advanced stage of HIV infection",
+    "haitian_creole": "SIDA"
+  },
+  {
+    "term": "Intercourse / Sex",
+    "definition": "sexual activity between people",
+    "haitian_creole": "Rapò seksyèl"
+  },
+  {
+    "term": "Chlamydia",
+    "definition": "sexually transmitted bacterial infection",
+    "haitian_creole": "Klamidya"
+  },
+  {
+    "term": "Gonorrhea",
+    "definition": "sexually transmitted infection",
+    "haitian_creole": "Gonore"
+  },
+  {
+    "term": "Urinary tract infection (UTI)",
+    "definition": "infection in urinary system",
+    "haitian_creole": "Enfeksyon aparèy urinè"
+  },
+  {
+    "term": "To urinate / Pee",
+    "definition": "to pass urine",
+    "haitian_creole": "Fè pipi"
+  },
+  {
+    "term": "To poop / Defecate",
+    "definition": "to pass stool",
+    "haitian_creole": "Fè kaka"
+  },
+  {
+    "term": "Bowel movements",
+    "definition": "process of passing stool",
+    "haitian_creole": "Mouvman entesten"
+  },
+  {
+    "term": "STD / Sexually Transmitted Disease",
+    "definition": "infection spread through sexual contact",
+    "haitian_creole": "MST (Maladi seksyèlman transmisib)"
+  },
+  {
+    "term": "Periods / Menses",
+    "definition": "monthly menstrual bleeding",
+    "haitian_creole": "Règ / Peryòd"
+  },
+  {
+    "term": "To discharge / To be discharged",
+    "definition": "to leave hospital after treatment",
+    "haitian_creole": "Sòti lopital / Lage lopital"
+  },
+  {
+    "term": "To be recovered",
+    "definition": "to return to good health",
+    "haitian_creole": "Retabli"
+  },
+  {
+    "term": "To fast",
+    "definition": "to avoid eating for medical or religious reasons",
+    "haitian_creole": "Jeûne / rete san manje"
+  },
+  {
+    "term": "Diet",
+    "definition": "planned food intake",
+    "haitian_creole": "Rejim alimantè"
+  },
+  {
+    "term": "Heart attack",
+    "definition": "sudden blockage of blood flow to heart",
+    "haitian_creole": "Kriz kadyak"
+  },
+  {
+    "term": "Heart disease",
+    "definition": "illness affecting the heart",
+    "haitian_creole": "Maladi kè"
+  },
+  {
+    "term": "Heart failure",
+    "definition": "heart cannot pump blood properly",
+    "haitian_creole": "Ensifizans kadyak"
+  },
+  {
+    "term": "Seizure",
+    "definition": "sudden uncontrolled brain activity",
+    "haitian_creole": "Kriz epilepsi"
+  },
+  {
+    "term": "Mental disorder",
+    "definition": "condition affecting mental health",
+    "haitian_creole": "Twoub mantal"
+  },
+  {
+    "term": "Autism",
+    "definition": "developmental disorder affecting communication",
+    "haitian_creole": "Otis"
+  },
+  {
+    "term": "OB-GYN / Gynecologist",
+    "definition": "doctor specializing in female reproductive health",
+    "haitian_creole": "Jinekòlòg"
+  },
+  {
+    "term": "Provider / Physician / Clinician",
+    "definition": "medical professional who treats patients",
+    "haitian_creole": "Doktè / founisè swen"
+  },
+  {
+    "term": "Primary Care Provider (PCP)",
+    "definition": "main doctor for general health care",
+    "haitian_creole": "Doktè swen prensipal"
+  },
+  {
+    "term": "Nurse",
+    "definition": "health worker who cares for patients",
+    "haitian_creole": "Enfimyè"
+  },
+  {
+    "term": "Midwife",
+    "definition": "person who assists childbirth",
+    "haitian_creole": "Saj fanm"
+  },
+  {
+    "term": "Surgeon",
+    "definition": "doctor who performs operations",
+    "haitian_creole": "Chirijyen"
+  },
+  {
+    "term": "Dietician",
+    "definition": "specialist in food and nutrition",
+    "haitian_creole": "Dietisyen"
+  },
+  {
+    "term": "Pharmacist",
+    "definition": "person who prepares and gives medicine",
+    "haitian_creole": "Famasyen"
+  },
+  {
+    "term": "Emergency Room (ER)",
+    "definition": "hospital area for urgent care",
+    "haitian_creole": "Sèvis ijans"
+  },
+  {
+    "term": "Delivery room",
+    "definition": "hospital room for childbirth",
+    "haitian_creole": "Salkouch"
+  },
+  {
+    "term": "Operating room / Surgical room",
+    "definition": "room where surgery is done",
+    "haitian_creole": "Sal operasyon"
+  },
+  {
+    "term": "Surgery",
+    "definition": "medical operation",
+    "haitian_creole": "Operasyon chirijikal"
+  },
+  {
+    "term": "Over the counter (OTC)",
+    "definition": "medicine sold without prescription",
+    "haitian_creole": "Medikaman san preskripsyon"
+  },
+  {
+    "term": "Pills",
+    "definition": "small solid medicine form",
+    "haitian_creole": "Pilil"
+  },
+  {
+    "term": "Tablets",
+    "definition": "compressed medicine form",
+    "haitian_creole": "Kompim"
+  },
+  {
+    "term": "Syrup",
+    "definition": "liquid medicine",
+    "haitian_creole": "Siwo"
+  },
+  {
+    "term": "Ointment",
+    "definition": "creamy medicine applied on skin",
+    "haitian_creole": "Pòmad"
   }
 ]
