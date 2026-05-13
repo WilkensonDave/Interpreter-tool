@@ -1,18 +1,30 @@
-let terms = []
+let terms = [];
 const numberWords = document.getElementById("words");
-fetch("terms.json").then(response => response.json()).then(data =>{
+fetch("terms.json")
+  .then((response) => response.json())
+  .then((data) => {
     terms = data;
-    numberWords.textContent = `Around ${terms.length} have already been added.`
+    numberWords.textContent = `Around ${terms.length} have already been added.`;
+    terms = terms.map(normalizeEntry);
+    console.log(terms);
     displayResults(terms);
-}).catch(error =>{
+  })
+  .catch((error) => {
     throw error;
-});
-
+  });
 
 const form = document.getElementById("searchForm");
 const searchInput = document.getElementById("search");
 const resultsDiv = document.getElementById("results");
 
+function normalizeEntry(item) {
+  return {
+    word: item.term || item.english || "",
+    definition: item.definition || "",
+    creole: item.haitian_creole || item.creole || "",
+    category: item.category || "Unknown",
+  };
+}
 
 form.addEventListener("submit", function (e) {
   e.preventDefault(); // prevent page reload
@@ -24,10 +36,13 @@ form.addEventListener("submit", function (e) {
     return;
   }
 
-  const filtered = terms.filter(term =>
-    term.english.toLowerCase().includes(query) ||
-    term.creole.toLowerCase().includes(query) ||
-    term.spanish.toLowerCase().includes(query)
+  const filtered = terms.filter(
+    (term) =>
+      term.word.toLowerCase().includes(query) ||
+      term.creole?.toLowerCase().includes(query) ||
+      term.haitian_creole?.toLowerCase().includes(query) ||
+      term.category?.toLowerCase().includes(query) ||
+      term.definition?.toLowerCase().includes(query),
   );
 
   displayResults(filtered);
@@ -41,15 +56,15 @@ function displayResults(data) {
     return;
   }
 
-  data.forEach(term => {
+  data.forEach((term) => {
     const card = document.createElement("div");
     card.classList.add("card");
 
     card.innerHTML = `
-      <h3>English: ${term.english}</h3>
-      <p>Creole: ${term.creole}</p>
-      <p>Spanish: ${term.spanish}</p>
-      <span>${term.category}</span>
+      <h3>English: ${term.word}</h3>
+      <p>Creole: ${term.creole || term.haitian_creole}</p>
+      <p>Category: ${term?.category || "No category"}</p>
+      <p>Definition: ${term?.definition || "No definition available"}</p>
     `;
 
     resultsDiv.appendChild(card);
@@ -60,11 +75,13 @@ function displayResults(data) {
 searchInput.addEventListener("input", () => {
   const query = searchInput.value.toLowerCase();
 
-  const filtered = terms.filter(term =>
-    term.english.toLowerCase().includes(query) ||
-    term.creole.toLowerCase().includes(query) ||
-    term.spanish.toLowerCase().includes(query) ||
-    term.category.toLowerCase().includes(query)
+  const filtered = terms.filter(
+    (term) =>
+      term.word.toLowerCase().includes(query) ||
+      term.creole?.toLowerCase().includes(query) ||
+      term.haitian_creole?.toLowerCase().includes(query) ||
+      term.category?.toLowerCase().includes(query) ||
+      term.definition?.toLowerCase().includes(query),
   );
 
   displayResults(filtered);
@@ -75,7 +92,7 @@ function filterCategory(category) {
   if (category === "All") {
     displayResults(terms);
   } else {
-    const filtered = terms.filter(term => term.category === category);
+    const filtered = terms.filter((term) => term.category === category);
     displayResults(filtered);
   }
 }
